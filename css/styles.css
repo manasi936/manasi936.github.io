@@ -3981,7 +3981,6 @@ img.u-pull-left {
 
 .contact-links,
 .contact-social {
-    font-size   : var(--text-md);
     font-weight : 300;
     line-height : var(--vspace-1_25);
     color       : var(--color-text-light);
